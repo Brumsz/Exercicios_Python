@@ -1,0 +1,1 @@
+Esses exercicios fazem parte do Curso em video do professor Gustava Guanabara, eles fazem parte do curso de Python, que é onde tive meu primeiro contato com a progamação, e que é onde de fato eu comecei a fazer minhas primeiras linhas de codigo.
